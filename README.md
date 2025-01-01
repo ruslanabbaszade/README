@@ -5,9 +5,9 @@
  <div align="center"  class="icons-social" style="margin-left: 15px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sabuhi-gasimzada/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/s3bu7i">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ruslanabbaszade">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/the._.sbh">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/rabbasv.01">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
   </div>
 
